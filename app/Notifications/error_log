@@ -1,0 +1,80 @@
+[04-Oct-2020 13:23:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/MentionNotificationwp.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/MentionNotificationwp.php on line 7
+[07-Oct-2020 16:50:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/ToManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/ToManager.php on line 12
+[07-Oct-2020 22:00:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/NewComment.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/NewComment.php on line 12
+[09-Oct-2020 13:03:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/ReportComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/ReportComment.php on line 11
+[09-Oct-2020 15:38:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/DailyPlanNoti.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/DailyPlanNoti.php on line 10
+[10-Oct-2020 02:21:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/WeeklyReportNoti.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/WeeklyReportNoti.php on line 10
+[10-Oct-2020 11:12:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/WeeklyPlanNoti.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/WeeklyPlanNoti.php on line 10
+[10-Oct-2020 13:50:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/DailyReportNoti.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/DailyReportNoti.php on line 10
+[11-Oct-2020 15:32:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/MentionNotificationdr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/MentionNotificationdr.php on line 7
+[11-Oct-2020 16:32:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/MentionNotificationdp.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/MentionNotificationdp.php on line 7
+[11-Oct-2020 16:36:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/MentionNotificationwr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/MentionNotificationwr.php on line 7
+[11-Oct-2020 17:10:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/ToManagerReportComment.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/ToManagerReportComment.php on line 12
+[07-Nov-2020 16:18:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/DailyPlanNoti.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/DailyPlanNoti.php on line 10
+[07-Nov-2020 16:18:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/DailyReportNoti.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/DailyReportNoti.php on line 10
+[08-Nov-2020 00:54:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/ToManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/ToManager.php on line 12
+[08-Nov-2020 01:22:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/NewComment.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/NewComment.php on line 12
+[08-Nov-2020 02:20:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/ReportComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/ReportComment.php on line 11
+[08-Nov-2020 02:27:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/WeeklyPlanNoti.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/WeeklyPlanNoti.php on line 10
+[08-Nov-2020 02:56:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/WeeklyReportNoti.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/WeeklyReportNoti.php on line 10
+[08-Nov-2020 05:21:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/ToManagerReportComment.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Notifications/ToManagerReportComment.php on line 12

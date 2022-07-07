@@ -1,0 +1,24 @@
+[15-Sep-2020 08:41:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/tvya4c9bs13u/public_html/pms1/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Http/Kernel.php on line 7
+[15-Sep-2020 13:33:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/tvya4c9bs13u/public_html/pms1/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Http/Kernel.php on line 7
+[19-Sep-2020 09:12:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/tvya4c9bs13u/public_html/pms1/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Http/Kernel.php on line 7
+[19-Sep-2020 12:52:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/tvya4c9bs13u/public_html/pms1/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Http/Kernel.php on line 7
+[21-Sep-2020 04:16:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/tvya4c9bs13u/public_html/pms1/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Http/Kernel.php on line 7
+[04-Oct-2020 04:19:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/tvya4c9bs13u/public_html/pms1/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Http/Kernel.php on line 7

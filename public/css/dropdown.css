@@ -1,0 +1,35 @@
+.menuu {
+    background-color: #f3f3f3;
+    position: absolute;
+    overflow-y: auto;
+}
+
+.menu-item {
+    cursor: default;
+    padding: 1rem;
+}
+
+.menu-item.selected {
+    background-color: slateGray;
+    color: white;
+}
+
+.menu-item:hover:not(.selected) {
+    background-color: #fafafa;
+}
+
+
+/* Chrome, Safari, Edge, Opera */
+
+.tpercentc::-webkit-outer-spin-button,
+.tpercentc::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+/* Firefox */
+
+.tpercentc[type=number] {
+    -moz-appearance: textfield;
+}

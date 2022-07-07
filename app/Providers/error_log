@@ -1,0 +1,128 @@
+[15-Sep-2020 08:41:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php on line 8
+[15-Sep-2020 08:41:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php on line 8
+[15-Sep-2020 08:41:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/BroadcastServiceProvider.php on line 8
+[15-Sep-2020 08:41:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/RouteServiceProvider.php on line 8
+[15-Sep-2020 08:41:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/EventServiceProvider.php on line 10
+[15-Sep-2020 13:33:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/EventServiceProvider.php on line 10
+[15-Sep-2020 13:33:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php on line 8
+[15-Sep-2020 13:33:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/BroadcastServiceProvider.php on line 8
+[15-Sep-2020 13:33:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php on line 8
+[19-Sep-2020 19:08:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php on line 8
+[19-Sep-2020 19:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php on line 8
+[19-Sep-2020 21:11:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/RouteServiceProvider.php on line 8
+[19-Sep-2020 21:40:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/EventServiceProvider.php on line 10
+[19-Sep-2020 21:49:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/BroadcastServiceProvider.php on line 8
+[20-Sep-2020 03:49:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php on line 8
+[20-Sep-2020 04:08:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php on line 8
+[20-Sep-2020 04:17:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/RouteServiceProvider.php on line 8
+[20-Sep-2020 05:24:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/RouteServiceProvider.php on line 8
+[20-Sep-2020 05:33:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/EventServiceProvider.php on line 10
+[20-Sep-2020 06:30:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php on line 8
+[20-Sep-2020 06:39:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/BroadcastServiceProvider.php on line 8
+[20-Sep-2020 06:58:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php on line 8
+[22-Sep-2020 02:28:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php on line 8
+[22-Sep-2020 02:47:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php on line 8
+[22-Sep-2020 05:09:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/RouteServiceProvider.php on line 8
+[22-Sep-2020 05:38:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/EventServiceProvider.php on line 10
+[22-Sep-2020 06:06:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/BroadcastServiceProvider.php on line 8
+[09-Oct-2020 23:08:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/RouteServiceProvider.php on line 8
+[09-Oct-2020 23:55:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/EventServiceProvider.php on line 10
+[10-Oct-2020 10:03:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AppServiceProvider.php on line 8
+[10-Oct-2020 18:04:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/AuthServiceProvider.php on line 8
+[11-Oct-2020 14:19:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tvya4c9bs13u/public_html/pms1/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/app/Providers/BroadcastServiceProvider.php on line 8

@@ -1,0 +1,253 @@
+[24-Aug-2020 14:27:35 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/sessionokr.blade.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/sessionokr.blade.php on line 81
+[24-Aug-2020 14:28:32 UTC] PHP Notice:  Undefined variable: team in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 62
+[24-Aug-2020 14:28:32 UTC] PHP Notice:  Trying to get property 'manager_id' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 62
+[24-Aug-2020 14:28:32 UTC] PHP Fatal error:  Uncaught Error: Class 'App\User' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 65
+[24-Aug-2020 14:29:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/tvya4c9bs13u/public_html/pms1/resources/views/welcome.blade.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/welcome.blade.php on line 36
+[24-Aug-2020 15:41:15 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Session' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/dashboard.blade.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/dashboard.blade.php on line 17
+[15-Sep-2020 08:41:51 UTC] PHP Notice:  Undefined variable: team in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 60
+[15-Sep-2020 08:41:51 UTC] PHP Notice:  Trying to get property 'manager_id' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 60
+[15-Sep-2020 08:41:51 UTC] PHP Fatal error:  Uncaught Error: Class 'App\User' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 63
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 166
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Trying to get property 'revenue' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 166
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 166
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Trying to get property 'revenuetarget' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 166
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 195
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Trying to get property 'cash' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 195
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 195
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Trying to get property 'cashtarget' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 195
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 224
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Trying to get property 'award' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 224
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 224
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Trying to get property 'awardtarget' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 224
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 253
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Trying to get property 'ebtda' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 253
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 253
+[15-Sep-2020 08:41:53 UTC] PHP Notice:  Trying to get property 'ebtdatarget' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 253
+[15-Sep-2020 08:41:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/tvya4c9bs13u/public_html/pms1/resources/views/welcome.blade.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/welcome.blade.php on line 36
+[15-Sep-2020 13:34:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Session' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/dashboard.blade.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/dashboard.blade.php on line 18
+[15-Sep-2020 13:34:14 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/sessionokr.blade.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/sessionokr.blade.php on line 102
+[15-Sep-2020 13:34:15 UTC] PHP Notice:  Undefined variable: team in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 60
+[15-Sep-2020 13:34:15 UTC] PHP Notice:  Trying to get property 'manager_id' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 60
+[15-Sep-2020 13:34:15 UTC] PHP Fatal error:  Uncaught Error: Class 'App\User' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 63
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 166
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Trying to get property 'revenue' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 166
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 166
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Trying to get property 'revenuetarget' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 166
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 195
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Trying to get property 'cash' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 195
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 195
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Trying to get property 'cashtarget' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 195
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 224
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Trying to get property 'award' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 224
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 224
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Trying to get property 'awardtarget' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 224
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 253
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Trying to get property 'ebtda' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 253
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 253
+[15-Sep-2020 13:34:17 UTC] PHP Notice:  Trying to get property 'ebtdatarget' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 253
+[15-Sep-2020 13:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/tvya4c9bs13u/public_html/pms1/resources/views/welcome.blade.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/welcome.blade.php on line 36
+[21-Sep-2020 16:27:36 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/okrinsession.blade.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/okrinsession.blade.php on line 103
+[24-Sep-2020 18:42:59 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Session' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/dashboard.blade.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/dashboard.blade.php on line 18
+[24-Sep-2020 22:07:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/tvya4c9bs13u/public_html/pms1/resources/views/welcome.blade.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/welcome.blade.php on line 39
+[24-Sep-2020 23:26:49 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/sessionokr.blade.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/sessionokr.blade.php on line 103
+[25-Sep-2020 01:29:13 UTC] PHP Notice:  Undefined variable: team in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 60
+[25-Sep-2020 01:29:13 UTC] PHP Notice:  Trying to get property 'manager_id' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 60
+[25-Sep-2020 01:29:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\User' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 63
+[25-Sep-2020 03:17:13 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/okrinsession.blade.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/okrinsession.blade.php on line 103
+[21-Oct-2020 17:38:43 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 181
+[21-Oct-2020 17:38:43 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 208
+[21-Oct-2020 17:38:43 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 235
+[21-Oct-2020 21:20:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/tvya4c9bs13u/public_html/pms1/resources/views/welcome.blade.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/welcome.blade.php on line 39
+[22-Oct-2020 09:56:45 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Session' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/dashboard.blade.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/dashboard.blade.php on line 43
+[22-Oct-2020 15:06:26 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/sessionokr.blade.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/sessionokr.blade.php on line 103
+[22-Oct-2020 16:30:01 UTC] PHP Notice:  Undefined variable: team in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 60
+[22-Oct-2020 16:30:01 UTC] PHP Notice:  Trying to get property 'manager_id' of non-object in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 60
+[22-Oct-2020 16:30:01 UTC] PHP Fatal error:  Uncaught Error: Class 'App\User' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdisplay.blade.php on line 63
+[23-Oct-2020 15:56:56 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/okrinsession.blade.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/okrinsession.blade.php on line 103
+[12-Dec-2020 16:53:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamweeklycomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamweeklycomment.blade.php on line 20
+[12-Dec-2020 16:54:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamweeklyplan.blade.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamweeklyplan.blade.php on line 30
+[14-Dec-2020 05:05:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdailyplan.blade.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdailyplan.blade.php on line 31
+[16-Jan-2021 12:22:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamweeklyplan.blade.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamweeklyplan.blade.php on line 30
+[18-Jan-2021 14:56:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamweeklyplan.blade.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamweeklyplan.blade.php on line 30
+[31-Jan-2021 22:38:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php on line 20
+[01-Feb-2021 18:10:55 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 215
+[01-Feb-2021 18:10:55 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 242
+[01-Feb-2021 18:10:55 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 269
+[01-Feb-2021 18:14:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php on line 20
+[01-Feb-2021 18:14:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyplan.blade.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyplan.blade.php on line 31
+[01-Feb-2021 18:14:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyrcomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyrcomment.blade.php on line 20
+[01-Feb-2021 18:14:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyreport.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyreport.blade.php on line 32
+[02-Feb-2021 18:01:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php on line 20
+[04-Feb-2021 04:27:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php on line 20
+[05-Feb-2021 01:21:28 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 215
+[05-Feb-2021 01:21:28 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 242
+[05-Feb-2021 01:21:28 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 269
+[05-Feb-2021 01:22:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php on line 20
+[05-Feb-2021 01:22:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyplan.blade.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyplan.blade.php on line 31
+[05-Feb-2021 01:22:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyrcomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyrcomment.blade.php on line 20
+[05-Feb-2021 01:22:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyreport.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyreport.blade.php on line 32
+[16-Feb-2021 14:40:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php on line 20
+[17-Feb-2021 19:15:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php on line 20
+[20-Feb-2021 10:10:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php on line 20
+[04-Mar-2021 15:56:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdailyplan.blade.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdailyplan.blade.php on line 31
+[18-Mar-2021 02:22:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php on line 20
+[21-Apr-2021 21:17:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php on line 20
+[27-Apr-2021 09:15:11 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 290
+[27-Apr-2021 09:15:11 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 317
+[27-Apr-2021 09:15:11 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 344
+[27-Apr-2021 09:15:13 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 290
+[27-Apr-2021 09:15:13 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 317
+[27-Apr-2021 09:15:13 UTC] PHP Notice:  Undefined variable: company in /home/tvya4c9bs13u/public_html/pms1/resources/views/hub.blade.php on line 344
+[27-Apr-2021 09:17:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php on line 20
+[27-Apr-2021 09:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyplan.blade.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyplan.blade.php on line 31
+[27-Apr-2021 09:17:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyrcomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyrcomment.blade.php on line 20
+[27-Apr-2021 09:17:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyreport.blade.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklyreport.blade.php on line 31
+[16-May-2021 05:54:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/weeklycomment.blade.php on line 20
+[23-May-2021 04:53:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdailyplan.blade.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/resources/views/teamdailyplan.blade.php on line 31

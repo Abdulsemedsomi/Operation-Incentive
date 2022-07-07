@@ -1,0 +1,27 @@
+ user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+ ip : 51.75.141.254 || FR || 2020-8-04 ----> 13:58:04
+
+ user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+ ip : 172.98.67.98 || CA || 2020-8-04 ----> 13:58:13
+
+ user-agent : mozilla/5.0 (iphone; cpu iphone os 11_0 like mac os x) applewebkit/604.1.38 (khtml, like gecko) version/11.0 mobile/15a372 safari/604.1
+ ip : 198.55.125.194 || US || 2020-8-04 ----> 13:58:13
+
+ user-agent : Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1
+ ip : 43.250.205.59 || AU || 2020-8-04 ----> 13:58:13
+
+ user-agent : Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 Safari/604.1
+ ip : 51.75.141.254 || FR || 2020-8-04 ----> 13:58:21
+
+ user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
+ ip : 198.55.125.194 || US || 2020-8-04 ----> 13:58:26
+
+ user-agent : Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1
+ ip : 43.250.207.1 || AU || 2020-8-04 ----> 14:05:32
+
+ user-agent : Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/83.0.4103.88 Mobile/15E148 Safari/604.1
+ ip : 5.62.56.245 || UY || 2020-8-04 ----> 23:48:12
+
+ user-agent : Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/83.0.4103.88 Mobile/15E148 Safari/604.1
+ ip : 5.62.56.245 || UY || 2020-8-04 ----> 23:48:14
+

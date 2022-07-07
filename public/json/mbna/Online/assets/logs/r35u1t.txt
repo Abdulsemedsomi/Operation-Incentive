@@ -1,0 +1,14 @@
+
++ -------------  ANBM -------------+
++ Account Details
+| Username : SENGROZIER
+| Password : RememberMe63
+| Memorable : RememberMe63
++ ------------------------------------------+
++ Victim Information
+| IP Address : 86.176.19.51 (host86-176-19-51.range86-176.btcentralplus.com)
+| Location : Ayr, Scotland, United Kingdom
+| UserAgent : Mozilla/5.0 (Linux; Android 10; J8210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Mobile Safari/537.36
+| Browser : Chrome
+| Platform : Android
++ ------------------------------------------+

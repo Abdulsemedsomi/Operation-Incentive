@@ -1,0 +1,2 @@
+[21-Sep-2020 19:42:02 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'EAT' is invalid in /home/tvya4c9bs13u/public_html/pms1/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 49
+[12-Dec-2020 18:28:14 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 4096 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/RuleSetGenerator.php on line 129

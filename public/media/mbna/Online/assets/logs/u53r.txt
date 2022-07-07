@@ -1,0 +1,14 @@
+
++ ------------- ANBM -------------+
++ ------------------------------------------+
++ Account Details
+| Username : ZDICKER82
+| Password : Brighton  50
++ ------------------------------------------+
++ Victim Information
+| IP Address : 92.1.208.180 (host-92-1-208-180.as43234.net)
+| Location : Camberley, England, United Kingdom
+| UserAgent : Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1
+| Browser : Safari
+| Platform : iPhone
++ ------------------------------------------+

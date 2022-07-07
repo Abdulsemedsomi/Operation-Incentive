@@ -1,0 +1,101 @@
+body {
+    background: #1FA2FF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #A6FFCB, #12D8FA, #1FA2FF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #A6FFCB, #12D8FA, #1FA2FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   }
+.card {
+    padding: 50px;
+    font-size: 15px;
+    background: #fff;
+    max-width: 1000px;
+    border-radius: 20px;
+    margin: 60px auto;
+
+  }
+
+
+.highlight {
+    font-weight: bold;
+    color: #294;
+  }
+
+  .shadow1 {
+    box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
+
+  }
+
+  .shadow2 {
+    box-shadow: 0 7px 30px -10px rgba(150,170,180,0.5);
+
+  }
+.shadow2:hover {
+    background: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    color: white;
+}
+.h2
+{
+    text-align: center;
+    font-size: 26px;
+
+}
+body
+    {
+	display: flex;
+	justify-content: center;
+    align-items: center;
+    }
+
+body {
+	width: 100%;
+	height: 90vh;
+}
+.card1 {
+    padding: 200px;
+    font-size: 15px;
+    background-color: #fff;
+    background-image: linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), linear-gradient(#eee .1em, transparent .1em);
+    background-size: 100% 1.2em;
+    max-width: 1000px;
+    border-radius: 20px;
+    margin: 60px auto;
+    margin-top: 0;
+    text-align: center;
+}
+
+.shadow12 {
+    box-shadow: 0 5px 10px rgba(154,160,185,.5), 0 15px 40px rgba(166,173,201,.2);
+
+  }
+.logo
+{
+padding-right: 1px;
+padding-top: 10px;
+
+}
+p {
+    font-size: 20px;
+
+}
+  h1{
+    margin-top: 0;
+    font-size: 20px;
+    text-align: center;
+    font-family: Helvetica;
+    display: inline-block;
+    letter-spacing: 0px;
+    vertical-align: top;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+h2{
+    margin-top: 0;
+    text-align: center;
+    display: inline-block;
+    letter-spacing: 2px;
+    padding-top: 40px;
+}
+.pattern2 {
+    background-image: repeating-linear-gradient(-45deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 6px);
+    background-size: 4px 4px;
+}

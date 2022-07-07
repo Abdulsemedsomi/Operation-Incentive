@@ -1,0 +1,124 @@
+[24-Aug-2020 05:51:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/api.php on line 17
+[24-Aug-2020 05:51:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php on line 16
+[24-Aug-2020 05:52:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tvya4c9bs13u/public_html/pms1/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/console.php on line 17
+[24-Aug-2020 05:52:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/web.php on line 24
+[12-Sep-2020 02:16:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/web.php on line 24
+[12-Sep-2020 02:16:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/api.php on line 17
+[12-Sep-2020 02:17:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tvya4c9bs13u/public_html/pms1/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/console.php on line 17
+[12-Sep-2020 02:17:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php on line 16
+[14-Sep-2020 17:15:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/api.php on line 17
+[15-Sep-2020 08:35:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/api.php on line 17
+[15-Sep-2020 08:35:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php on line 16
+[15-Sep-2020 08:35:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/api.php on line 17
+[15-Sep-2020 08:36:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tvya4c9bs13u/public_html/pms1/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/console.php on line 17
+[15-Sep-2020 08:36:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php on line 16
+[15-Sep-2020 13:32:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tvya4c9bs13u/public_html/pms1/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/console.php on line 17
+[15-Sep-2020 13:32:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/api.php on line 17
+[15-Sep-2020 13:32:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/web.php on line 24
+[15-Sep-2020 13:32:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php on line 16
+[16-Sep-2020 04:20:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/web.php on line 24
+[16-Sep-2020 04:21:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/api.php on line 17
+[16-Sep-2020 04:24:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tvya4c9bs13u/public_html/pms1/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/console.php on line 17
+[16-Sep-2020 04:24:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php on line 16
+[16-Sep-2020 14:28:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/web.php on line 24
+[16-Sep-2020 14:52:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/api.php on line 17
+[16-Sep-2020 23:21:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/web.php on line 24
+[18-Sep-2020 12:31:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tvya4c9bs13u/public_html/pms1/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/console.php on line 17
+[18-Sep-2020 17:17:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php on line 16
+[18-Sep-2020 19:00:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/web.php on line 24
+[18-Sep-2020 20:06:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tvya4c9bs13u/public_html/pms1/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/api.php on line 17
+[19-Sep-2020 03:31:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tvya4c9bs13u/public_html/pms1/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/console.php on line 17
+[19-Sep-2020 04:28:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/pms1/routes/channels.php on line 16
